@@ -1,6 +1,3 @@
-# 👋🏻 Hi, I'm Sahil Alam
-Software Developer | Passionate about Backend & Frontend | Java • Spring • React • Tailwind • Python
-
 # 💫 About Me:
 🔭 I’m currently working on:<br>Building full-stack projects and sharpening my development skills<br><br>👯 I’m looking to collaborate on:<br>Full-stack projects<br><br>🤝 I’m looking for help with:<br>Machine Learning concepts<br><br>🌱 I’m currently learning:<br>Spring and Machine Learning<br><br>💬 Ask me about:<br>Java, Python, Spring, React, MySql and any general software development questions.<br><br>⚡ Fun fact: <br>Debugging is just me arguing with the computer until I realize I was wrong.
 
@@ -16,9 +13,6 @@ Software Developer | Passionate about Backend & Frontend | Java • Spring • R
 ![](https://github-readme-stats.vercel.app/api?username=sahil-alam444&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sahil-alam444&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-alam444&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sahil-alam444&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
